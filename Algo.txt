@@ -1,3 +1,6 @@
-1. Decide company 
-2. Decide toppings
-3. Order Pizza
+1. Decide company. 
+2. Decide toppings.
+3. Order Pizza.
+4. Eat the pizza.
+5. Save the order for future reference.
+6. Review the company if you love it.
