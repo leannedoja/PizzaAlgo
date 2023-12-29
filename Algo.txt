@@ -1,6 +1,7 @@
 1. Decide company. 
 2. Decide toppings.
 3. Order Pizza.
-4. Eat the pizza.
-5. Save the order for future reference.
-6. Review the company if you love it.
+4. Tip the pizza man.
+5. Eat the pizza.
+6. Save the order for future reference.
+7. Review the company if you love it.
